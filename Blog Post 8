@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+	
+<head>
+	
+<title>Mia Steadman Project 1</title>
+	
+</head>
+	
+<body>
+	My School!
+</body>
+	
+<p>
+	This is my school. 
+	It is called the University of New Haven. 
+	It is located in West Haven, CT. Here is a photo of one of our quads. The building in the photo is called Maxcy Hall.
+</p>
+
+	
+	<img src="../school photo.jpg" width="720" height="480" alt=""/>
+
+<body> 
+	Fun Stuff
+</body>
+	
+<p>
+	<img src="../Rollercoaster.jpg" width="768" height="519" alt=""/> </p>
+	
+<p> This is a rollercoaster. Rollercoasters are pretty fun. Some people hate rollercoasters, and that is cool too. This photo was taken around sunset, so the sky looks pretty. </p>
+	
+</html>
